@@ -69,7 +69,7 @@
 }
 #div-1{
     background-color: cornsilk;
-    width: px;
+    width: 80px;
     flowt:raight;
     border-radius: 30px;
     padding-left: 300px;
@@ -96,7 +96,7 @@
 }
 .d1{
     display: flex;
-    
+    padding-left: 30px;
     width: 100px;
 }
 .d2{
@@ -119,4 +119,11 @@ font-weight: 700;
 #sb{
     padding-left:50px;
     padding-top: 20px;
+}
+.img-coding{
+    display: flex;
+    width: 300px;
+}
+.margin{
+    margin: 10px solid;
 }
