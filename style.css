@@ -1,0 +1,44 @@
+.font{
+    font-family: 'Courgette', cursive;
+    font-size: 50px;
+    padding-left: 120px;
+    padding-top: 100px;
+}
+#fc{
+    font-family: 'Courgette', cursive;
+    padding-left: 120px;
+    font-size: 50px;
+    color: aqua;
+}
+#border{
+    margin-left: 5px;   
+}
+.m-font{
+    font-family: 'Poppins', sans-serif;    
+}
+.half-width{
+     width: 40%;    
+    padding-left: 40px;
+    padding-right: 40px;
+}
+.half-width img{
+    width: 400px;
+    padding-left: 800px;   
+    padding-bottom: 1000px;
+}
+#bd{
+    display: flex;
+    width: 100%;
+}
+#ta{
+    text-align: center;
+}
+#sp{
+    color: lightgreen;
+}
+.font{
+    border-left: rgb(86, 86, 255);
+}section{
+    display:flexbox
+    
+}
