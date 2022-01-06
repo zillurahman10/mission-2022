@@ -11,7 +11,8 @@
     color: aqua;
 }
 #border{
-    margin-left: 5px;   
+    line-height: 15px;
+    border-left-color:blue ;   
 }
 .m-font{
     font-family: 'Poppins', sans-serif;    
@@ -22,13 +23,14 @@
     padding-right: 40px;
 }
 .half-width img{
-    width: 400px;
+    width: 300px;
     padding-left: 800px;   
-    padding-bottom: 1000px;
+    padding-bottom: 100px;
+    display: flex;
 }
 #bd{
     display: flex;
-    width: 100%;
+    width: 50%
 }
 #ta{
     text-align: center;
@@ -41,4 +43,80 @@
 }section{
     display:flexbox
     
+}
+#ta{
+    text-align: center;
+}
+#sp{
+    color: lightgreen;
+}
+#am{
+    font-size: 35px;
+}
+.i1{
+    width: 150px;
+}
+.i2{
+    width: 150px;
+}
+.i3{
+    width: 150px;
+}
+.st{
+    display: flex;
+    width: 80px;
+    
+}
+#div-1{
+    background-color: cornsilk;
+    width: px;
+    flowt:raight;
+    border-radius: 30px;
+    padding-left: 300px;
+    padding-bottom: 
+    margin: 5px;
+}
+#div-2{
+    background-color: lightpink;
+    width: 80px;
+    flowt:middle;
+    border-radius: 30px;
+    padding-left: 300px;
+    padding-bottom: 
+    
+}
+#div-3{
+    background-color: lightsteelblue;
+    width: 80px;
+    flowt:raight;
+    border-radius: 30px;
+    padding-left: 300px; 
+    padding-bottom:
+    
+}
+.d1{
+    display: flex;
+    
+    width: 100px;
+}
+.d2{
+    display: flex;
+    width: 100px;
+}
+.d3{
+    display: flex;
+    width: 100px;
+}
+.cl{
+    text-decoration: none;
+    background-color: blue;
+padding: 10px 40px;
+border-radius: 5px;
+color: white;
+padding-left: 50px;
+font-weight: 700;
+}
+#sb{
+    padding-left:50px;
+    padding-top: 20px;
 }
